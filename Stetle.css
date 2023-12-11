@@ -5,6 +5,19 @@
     #titulo {
         font-size: 70px;
         text-align: center;
-        color:black
+        color:black(192,20,123)
 
+    }
+    header{
+        padding: 20px;
+        background-color: rgb(17, 17, 17);
+        border-bottom: 5px solid;
+        font-size: 35px;
+        color: black;
+    }
+
+    .texto {
+        font-size: 50px;
+        text-align: justify;
+        color: black;
     }
